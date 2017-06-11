@@ -1,0 +1,13 @@
+certifi==2017.4.17
+chardet==3.0.4
+idna==2.5
+multi-key-dict==2.0.3
+pbr==3.0.1
+PyGithub==1.34
+PyJWT==1.5.0
+python-jenkins==0.4.14
+python-magic==0.4.13
+requests==2.17.3
+six==1.10.0
+urllib3==1.21.1
+websocket-client==0.40.0
